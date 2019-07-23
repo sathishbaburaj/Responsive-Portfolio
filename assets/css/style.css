@@ -220,6 +220,12 @@
     background: #4aaaa5;
     border: 0 none;
   }
+  .contact{
+    float:left;
+    width: 35%;
+    margin-top:0px;
+    margin-left:20px;
+  }
   
   @media screen and (max-width: 980px){
     #logo{
@@ -247,6 +253,9 @@
     
     #main-container{
       width: 100%;
+    }
+    .contact{
+      float:left;
     }
   
     footer{
@@ -278,6 +287,9 @@
     
     #main-container{
       width: 100%;
+    }
+    .contact{
+      float:left;
     }
   
     footer{
@@ -316,7 +328,9 @@
       margin-left: 5%;
       
     }
-  
+  .contact{
+    float:left;
+  }
     footer{
       width: 100%;
     }
